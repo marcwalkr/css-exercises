@@ -6,3 +6,9 @@
 .no_click_me {
   background-color: yellow;
 }
+
+.click_me,
+.no_click_me {
+  font-size: 28px;
+  font-family: "Helvetica", "Times New Roman", "sans-serif";
+}
